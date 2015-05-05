@@ -1,0 +1,29 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				""
+			],
+			"follow_symlinks": true,
+			"path": "C:\\Users\\32920425854.HOMOLOGA\\AppData\\Local\\Temp\\fz3-14151257141470"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\32920425854.HOMOLOGA\\AppData\\Local\\Temp\\fz3-14157098058730"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\32920425854.HOMOLOGA\\AppData\\Local\\Temp\\fz3-14193517165600"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\32920425854.HOMOLOGA\\AppData\\Local\\Temp\\fz3-14231613955900"
+		}
+	]
+}

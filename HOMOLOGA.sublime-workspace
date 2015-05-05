@@ -1,0 +1,1595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Telefon",
+				"TelefoneAgenciaCorreios"
+			],
+			[
+				"Rena",
+				"“Renach”"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"En",
+				"Endereco"
+			],
+			[
+				"Nome",
+				"NomeAgencia"
+			],
+			[
+				"IdC",
+				"IdCorreiosAgencia"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"javascr",
+				"javascript"
+			],
+			[
+				"Datafim",
+				"DataFimOperacao"
+			],
+			[
+				"Datai",
+				"DataIniOperacao"
+			],
+			[
+				"Codigo",
+				"CodigoEquipamentoIMMetro"
+			],
+			[
+				"IdAge",
+				"IdAgenteAutuador"
+			],
+			[
+				"Impri",
+				"ImprimeAutuacao"
+			],
+			[
+				"TipoEntrada",
+				"TipoEntradaDados"
+			],
+			[
+				"Tipo",
+				"TipoAR"
+			],
+			[
+				"lote",
+				"LoteAR"
+			],
+			[
+				"Num",
+				"NumLoteAr"
+			],
+			[
+				"Aux",
+				"auxA"
+			],
+			[
+				"Au",
+				"AuxI"
+			],
+			[
+				"Fre",
+				"FrequenciaEmissaoMensal"
+			],
+			[
+				"emi",
+				"EmissaoMensal"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"is",
+				"isempty"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"EmissaoNP",
+				"EmissaoNP"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"cel",
+				"cellspacing	Attr"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"sub",
+				"Sub"
+			],
+			[
+				"show",
+				"showConsulta"
+			],
+			[
+				"Emi",
+				"EmissaoNP"
+			],
+			[
+				"Qt",
+				"QtdeEmissaoAR"
+			],
+			[
+				"rela",
+				"relatedCheck"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"idor",
+				"idOrgao"
+			],
+			[
+				"data",
+				"DataNascimento1"
+			],
+			[
+				"docto",
+				"DoctoOrgao1"
+			],
+			[
+				"docnum",
+				"DocNumero1"
+			],
+			[
+				"Nom",
+				"NomeMae1"
+			],
+			[
+				"Nomem",
+				"NomeMae1"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"DetranN",
+				"DetranNET"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/Processo.asp",
+			"settings":
+			{
+				"buffer_size": 625728,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao/ConsultaProcesso.asp",
+			"settings":
+			{
+				"buffer_size": 1747,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao/ConsultaProcessoSeguranca.asp",
+			"settings":
+			{
+				"buffer_size": 207321,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/sqlserver.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 106.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ali",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"tsq",
+				"TSQL Easy: Open server object"
+			],
+			[
+				"tsql",
+				"TSQL Easy: Server select"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"vbscript",
+				"Set Syntax: VBScript"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:  install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 369.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"cls",
+			"clear",
+			"git help",
+			"git",
+			"cls",
+			"clear",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Cadastro",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Financas",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Financas/Relatorios",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Infracao",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Infracao/Extratos",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Tabela",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Credenciamento",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Impedimento",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/Despachante",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/RouboFurto",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/vistoria",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/ControleAcesso",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo"
+	],
+	"file_history":
+	[
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/FormularioRenach.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/Processo20150430.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/Processo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/Processo_EnvioCarteira.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_BD_novo/DetranNET_BD/Procedure/Fiscalizacao/stp_Inf_GerarNotificacaoPenalidadeTodos.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Credenciamento/laudo_vistoria_cfc_a.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/vistoria/ChassiAutorizacao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/funcoes.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Financas/Relatorios/RelatorioDevolucaoImpressao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/RouboFurto/RegistrarOcorrencia.asp",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/CEP ENTREGA.csv",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/PLANILHA CEP CUIABA E VG PARA ENTREGA DE CNH 17-04-2015.csv",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/DNE_GU_MT_UNIDADES_OPERACIONAIS.TXT",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/DNE_GU_1503/DNE_GU_GRANDES_USUARIOS.TXT",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Cadastro/CorreiosAgencias.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Infracao/DigitarAIT.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Cadastro/Ciretran.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Cadastro/Pessoas.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/ConfiguracoesAR.asp",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/DET020.001.291510.00001577.201501261021.txt",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Carrega Logradouros/Documentos/DNE_GU_MT_LOGRADOUROS.TXT",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/K3249.K29822MT.P150310.PA",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Carrega Logradouros/Documentos/DNE_GU_TIPOS_LOGRADOURO.TXT",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Carrega Logradouros/Documentos/DNE_GU_LOCALIDADES.TXT",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Carrega Logradouros/DNE_GU_MT_LOGRADOUROS.TXT",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/ControleAcesso/login.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/tela_principal.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/Despachante/Credenciamento.asp",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/wsPontuacao.xml",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/frameCep.asp",
+		"/C/Users/32920425854.HOMOLOGA/Desktop/lista de erros wsBloqueio.txt",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Infracao/ConsultaLote.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Tabela/AgenteEletronico_20150304.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Tabela/AgenteEletronico.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Apreensao/Apreensao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/processo/Includes/auxPlacaDisponivel.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Certificado.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Extrato/Extrato/ConsultaVeiculo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 7743 Geração de Penalidade Sinop 289850/stp_Inf_GerarNotificacaoPenalidadeTodos.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 7751 Alteração data mínima emissão de notificação/stp_Inf_GerarPenalidadeControle.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Processo novo Job Notificação de Infração/stp_Inf_GerarNotificacaoPenalidadeTodos.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 7746 Alteração emissão de notificação/stp_Inf_AutoInfracaoEletronico_Ins.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Suporte/Arquivos/Chamado_4190/41768760187_2906223/Chamado4190_ExamesporCFC_Resultado.txt",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/CursoEspecializacao.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/ConsultaVeiculo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/PontuacaoInternet.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/IntervaloAR.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/imprimirRPTNovo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/index.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Copy of global.asa",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Processo novo Job Notificação de Infração/stp_Inf_GerarPenalidadePrePostagem_Prefeitura.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/WORK/@ 0000 Processo novo Job Notificação de Infração/stp_Inf_GerarNotificacaoPrePostagem_Prefeitura.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo/HistoricoImpedimentosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/HistoricoImpedimentosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Tabela/AgenteAutuador.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Seguranca/Autorizacao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/HistoricoDebitos.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/HttpRedirect.htm",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/index.htm",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/HistoricoImpedimentosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_APL_novo/DetranNET_APL/wwwroot/DetranNet/Internet/ConsultaVeiculo.cleartext_main_22.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_APL_novo/DetranNET_APL/wwwroot/DetranNet/Internet/ConsultaVeiculo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_APL_novo/DetranNET_APL/wwwroot/DetranNet/Internet/ConsultaVeiculo.cleartext_main_21.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_APL_novo/DetranNET_APL/wwwroot/DetranNet/Internet/ConsultaVeiculo.cleartext_main_20.asp",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/ConsultaVeiculo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/DebitosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/DadosProprietario.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/AutuacoesVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/UltimoProcessoVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/testeconsulta.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Relatorios_Crystal_Reports/Fiscalizacao/Copy of Not_DetranAutuacao.rpt",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/codigodebarra.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo/OcorrenciasDadosVeiculoBIN.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/SharedASP/Copy of DAR.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Tabela/OrgaoAutuador.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo/Bkp 20100429/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Relatorios_Crystal_Reports/Habilitacao/RelOperacoesCredenciados.rpt",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/rotinas.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao/ConsultaProcesso.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/DadosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Rotinas/MultasVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/Processo.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/consultaVeiculoInternet.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/consultaInfracao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/Processo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Impedimento/ProcessoSuspensao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/TabelasPre/PreRecolhimCNH.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/Pontuacao.inc",
+		"/C/Users/32920425854.HOMOLOGA/Downloads/DebitosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/GerarArquivoAR_bkp.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/GerarArquivoAR.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/GerarArquivoARnovo.asp",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/DebitosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Veiculo/DebitosVeiculo.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/DetranNET_APL_novo/DetranNET_APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Infracao/DigitarAIT.cleartext_main_13.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Sistema/Dicionario.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/DetranNet/Cadastro/Orgao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Tabela/OrgaoResponsavel.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Rotinas/Habilitacao/Ocorrencia.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Administrativo/Impressao.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/scripts_uteis/geradebitoDespachante.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/scripts_uteis/geraDebitoExercicio.sql",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/global.asa",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/Vagrantfile",
+		"/C/Users/32920425854.HOMOLOGA/Vagrantfile",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Local/Temp/fz3temp-1/DigitarAIT.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/RouboFurto/CorrecaoRouboFurto.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/processo/Includes/correcao_renavam.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/processo/Includes/correcao_chassi.inc",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Renainf/CorrecaoTransacaoRenainf20130226.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Renainf/CorrecaoTransacaoRenainf.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/renavam/correcoes/CorrecaoSNG.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Relatorios/Copy of RelatorioSintetico.ASP",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Fiscalizacao/Notificacao/ConfiguracoesAR_bkp.asp",
+		"/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/Designer/Imagens/UNDO.BMP"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet,C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Processo",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\renavam",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Habilitacao",
+			"<project>",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\talonario",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Fiscalizacao",
+			"C:\\Users\\32920425854.HOMOLOGA\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\talonario",
+			"<project>",
+			"C:\\Users\\32920425854\\DetranNET\\APL\\wwwroot\\DetranNet\\arearestrita\\Habilitacao\\LoteCNH",
+			"<project>",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Relatorios",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet\\arearestrita\\Estatistica",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Relatorio",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet\\arearestrita\\renavam\\Relatorio",
+			"C:\\Users\\32920425854\\DetranNET\\DetranNET_APL\\DetranNET_APL\\wwwroot\\DetranNet\\Internet"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NumeroRENACH",
+			"numérico",
+			"EnvioCart",
+			"enviocar",
+			"enviocartei",
+			"Enviocartei",
+			"entregacorre",
+			"entregacorr",
+			"desabilitado =",
+			"Correios",
+			"type=\"hidden\" name=\"TipoLogradouro\" ",
+			"Endereço",
+			"telaServicos",
+			"enviocar",
+			"enviocarteira",
+			"strMotivoRequerimentoCNH",
+			"CursoExameAtualizacao",
+			"aqui:",
+			"EnviaCorreio",
+			"enviocar",
+			"enviocartei",
+			"Cuiabá,",
+			"body",
+			"brasao2.jpg",
+			"ALT_IMPRIMIR",
+			"ImprimirRENACH",
+			"formulariorenach",
+			";",
+			"central de cuia",
+			"CENTRAL",
+			"central",
+			"central de cuiab",
+			"CPA",
+			"78080970",
+			"limparform",
+			"sonumero",
+			"numero",
+			"tira",
+			"cep",
+			"Seleciona",
+			"telefone",
+			"OTAVIO PITALUGA",
+			"QMT",
+			"KMT",
+			"NMT",
+			"SMT",
+			"NMT",
+			"DANTE MARTINS DE OLIVEIRA",
+			"validade",
+			"& \"",
+			" ",
+			"idCiretranEnvioProva",
+			"myIframe",
+			"consultacep",
+			"@TipoConsulta",
+			"true",
+			".removeAttr('disabled')",
+			".attr('disabled', false)",
+			"true",
+			"hidden",
+			"editarlinha",
+			"/([A-Z])\\w+/g",
+			"InformarColetaImagem",
+			"id=\"imprimir\"",
+			"id=\"imprimir",
+			"aberto",
+			"TipoIsencao",
+			"IsentarApreensao",
+			"limpacampos",
+			"limparform",
+			"habilitaCombo",
+			"MaskText",
+			"txtidAgenteEletronico",
+			"rsAux",
+			"ConsultaOrgao",
+			"ConsultaAgente",
+			"idAgenteAutuador",
+			"txtidAgenteEletronico",
+			"Application",
+			"odbc",
+			"include",
+			"NovoCmmd",
+			"odbc",
+			"rsObj",
+			"rsobj",
+			"rsobs",
+			"idacao",
+			"<%=rsObj(\"idAcao\")%>",
+			"sequencia",
+			"IdProcessoEtapa",
+			"cint",
+			"tipoemissao",
+			"ipvaanterior",
+			"LicenciamentoExercicio",
+			"escolhe",
+			"LicenciamentoExercicio",
+			"escolheLista",
+			"débitos",
+			"linkGuia",
+			"spanDAR_Integral",
+			"spanDAR_LicenciamentoExercicio",
+			"LicenciamentoExercicio",
+			"spanDAR_LicenciamentoExercicio",
+			"Total dos d",
+			"Clique aqui para emitir o DAR",
+			" Clique aqui para emitir o DAR ",
+			"CodigoOrgaoAutuador",
+			"ImprimirCarta",
+			"Val(auxA)",
+			"TotalRegistros",
+			"auxA",
+			"TipoAr",
+			"TipoAR",
+			"IAutAr",
+			"then",
+			"IAutAr",
+			"DataGeracao",
+			"TbRegistro",
+			"IAutAR",
+			"IAutAr",
+			"LoteAR",
+			"LoteAr",
+			"LoteAR",
+			"LoteAr",
+			"LoteAR",
+			"TipoAR",
+			"NumLoteAR",
+			"r"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"','",
+			"",
+			"Val(TotalRegistros)",
+			"TipoAR",
+			"UsuarioInclusao",
+			"PrefixoSistema",
+			"IdPrefixoSistema"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/arearestrita/Habilitacao/Processo/Processo.asp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341097,
+								341106
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 357.0,
+						"translation.y": 116162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao/ConsultaProcesso.asp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1061,
+								1061
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/32920425854.HOMOLOGA/DetranNET/APL/wwwroot/DetranNet/Internet/Habilitacao/ConsultaProcessoSeguranca.asp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 207321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13039,
+								13039
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4897.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 115.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "HOMOLOGA.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"consultaprocessoseguranca",
+				"wwwroot\\DetranNet\\Internet\\Habilitacao\\ConsultaProcessoSeguranca.asp"
+			],
+			[
+				"internetconsupro",
+				"wwwroot\\DetranNet\\Internet\\Habilitacao\\ConsultaProcesso.asp"
+			],
+			[
+				"processo.a",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Processo\\Processo.asp"
+			],
+			[
+				"funco",
+				"wwwroot\\DetranNet\\arearestrita\\funcoes.inc"
+			],
+			[
+				"relatodevim",
+				"wwwroot\\DetranNet\\arearestrita\\Financas\\Relatorios\\RelatorioDevolucaoImpressao.asp"
+			],
+			[
+				"chassiauto",
+				"wwwroot\\DetranNet\\arearestrita\\renavam\\vistoria\\ChassiAutorizacao.asp"
+			],
+			[
+				"registraroco",
+				"wwwroot\\DetranNet\\arearestrita\\renavam\\RouboFurto\\RegistrarOcorrencia.asp"
+			],
+			[
+				"laudovisto",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Credenciamento\\laudo_vistoria_cfc_a.asp"
+			],
+			[
+				"processo.asp",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Processo\\Processo.asp"
+			],
+			[
+				"digita",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"pesso",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Cadastro\\Pessoas.asp"
+			],
+			[
+				"ciretr",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Cadastro\\Ciretran.asp"
+			],
+			[
+				"config",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\ConfiguracoesAR.asp"
+			],
+			[
+				"ciretran",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Cadastro\\Ciretran.asp"
+			],
+			[
+				"pess",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Cadastro\\Pessoas.asp"
+			],
+			[
+				"configurac",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\ConfiguracoesAR.asp"
+			],
+			[
+				"renavamdespachantecrede",
+				"wwwroot\\DetranNet\\arearestrita\\renavam\\Despachante\\Credenciamento.asp"
+			],
+			[
+				"framecep",
+				"wwwroot\\DetranNet\\arearestrita\\frameCep.asp"
+			],
+			[
+				"consultalo",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\ConsultaLote.asp"
+			],
+			[
+				"apreensao",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Apreensao\\Apreensao.asp"
+			],
+			[
+				"certificado",
+				"wwwroot\\DetranNet\\arearestrita\\Certificado.asp"
+			],
+			[
+				"internetroti",
+				"wwwroot\\DetranNet\\Internet\\rotinas.inc"
+			],
+			[
+				"inte",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\IntervaloAR.asp"
+			],
+			[
+				"configu",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\ConfiguracoesAR.asp"
+			],
+			[
+				"agente",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteEletronico.asp"
+			],
+			[
+				"historiimpe",
+				"wwwroot\\DetranNet\\Internet\\Rotinas\\HistoricoImpedimentosVeiculo.inc"
+			],
+			[
+				"consulta",
+				"wwwroot\\DetranNet\\Internet\\ConsultaVeiculo.asp"
+			],
+			[
+				"consultaveicu",
+				"wwwroot\\DetranNet\\Internet\\ConsultaVeiculo.asp"
+			],
+			[
+				"odbc",
+				"wwwroot\\Rotinas\\Veiculo\\OcorrenciasDadosVeiculoBIN.inc"
+			],
+			[
+				"rotinas",
+				"wwwroot\\DetranNet\\Internet\\Rotinas\\rotinas.inc"
+			],
+			[
+				"cint",
+				"wwwroot\\DetranNet\\Internet\\consultaVeiculoInternet.asp"
+			],
+			[
+				"configura",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\ConfiguracoesAR.asp"
+			],
+			[
+				"digitarai",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"digitarait",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"orgaod",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\OrgaoAutuador.asp"
+			],
+			[
+				"impr",
+				"wwwroot\\DetranNet\\arearestrita\\imprimirRPTNovo.asp"
+			],
+			[
+				"func",
+				"wwwroot\\DetranNet\\arearestrita\\funcoes.inc"
+			],
+			[
+				"gerararqu",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\GerarArquivoAR.asp"
+			],
+			[
+				"digitar",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"correca",
+				"wwwroot\\DetranNet\\arearestrita\\renavam\\RouboFurto\\CorrecaoRouboFurto.asp"
+			],
+			[
+				"index",
+				"wwwroot\\DetranNet\\index.asp"
+			],
+			[
+				"interv",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\IntervaloAR.asp"
+			],
+			[
+				"comum",
+				"wwwroot\\DetranNet\\arearestrita\\bib\\asp\\comum.asp"
+			],
+			[
+				"autori",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Seguranca\\Autorizacao.asp"
+			],
+			[
+				"multa",
+				"wwwroot\\Rotinas\\Veiculo\\MultasVeiculo.inc"
+			],
+			[
+				"logotipo",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\talonario\\logotipo.asp"
+			],
+			[
+				"dicio",
+				"wwwroot\\DetranNet\\arearestrita\\DetranNet\\Sistema\\Dicionario.asp"
+			],
+			[
+				"digi",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"fun",
+				"wwwroot\\DetranNet\\arearestrita\\funcoes.inc"
+			],
+			[
+				"inde",
+				"wwwroot\\DetranNet\\index.asp"
+			],
+			[
+				"agenteele",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteEletronico.asp"
+			],
+			[
+				"processos",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Impedimento\\ProcessoSuspensao.asp"
+			],
+			[
+				"",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Impedimento\\ProcessoSuspensaoCertidao.asp"
+			],
+			[
+				"impressao.asp",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Administrativo\\Impressao.asp"
+			],
+			[
+				"repassemu",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Administrativo\\RepasseMunicipio.asp"
+			],
+			[
+				"repasse",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Renainf\\RelatorioRepasse.asp"
+			],
+			[
+				"emissaopi",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Relatorio\\EmissaoPIDPeriodo.asp"
+			],
+			[
+				"empresa",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\EmpresaMonitoramento.asp"
+			],
+			[
+				"agentele",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteEletronico.asp"
+			],
+			[
+				"credencia",
+				"wwwroot\\DetranNet\\arearestrita\\Habilitacao\\Credenciamento\\Credenciamento.asp"
+			],
+			[
+				"empres",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\EmpresaMonitoramento1.asp"
+			],
+			[
+				"agentee",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteEletronico1.asp"
+			],
+			[
+				"agen",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteAutuador.asp"
+			],
+			[
+				"digitaai",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"_or",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\_OrgaoAutuador.asp"
+			],
+			[
+				"autuador",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteAutuador.asp"
+			],
+			[
+				"agenteau",
+				"wwwroot\\DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\AgenteAutuador.asp"
+			],
+			[
+				"classi",
+				"wwwroot\\DetranNet\\arearestrita\\Financas\\Relatorios\\ClassificacaoReceita.asp"
+			],
+			[
+				"decisao",
+				"wwwroot\\DetranNet\\arearestrita\\renavam\\processo\\DecisaoJudicial.asp"
+			],
+			[
+				"relatorioana",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Relatorios\\RelatorioAnalitico.asp"
+			],
+			[
+				"relatorioarre",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Relatorios\\RelatorioArrecadacao.ASP"
+			],
+			[
+				"laudo",
+				"DetranNet\\arearestrita\\renavam\\vistoria\\laudo.asp"
+			],
+			[
+				"configur",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\ConfiguracoesAR.asp"
+			],
+			[
+				"digit",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Infracao\\DigitarAIT.asp"
+			],
+			[
+				"consultapesso",
+				"DetranNet\\Internet\\Habilitacao\\Servicos\\ConsultaPessoa.asp"
+			],
+			[
+				"combi",
+				"DetranNet\\arearestrita\\renavam\\tabela\\CombinacaoRestricao.asp"
+			],
+			[
+				"veiculoa",
+				"DetranNet\\arearestrita\\renavam\\Restrição\\VeiculoAcidentado.asp"
+			],
+			[
+				"debitosveicu",
+				"DetranNet\\Internet\\Rotinas\\DebitosVeiculo.inc"
+			],
+			[
+				"debitosvei",
+				"Rotinas\\Veiculo\\DebitosVeiculo.inc"
+			],
+			[
+				"debi",
+				"Rotinas\\Veiculo\\DebitosVeiculo.inc"
+			],
+			[
+				"funcoes.js",
+				"DetranNet\\Internet\\funcoes.js"
+			],
+			[
+				"debito",
+				"DetranNet\\Internet\\Rotinas\\DebitosVeiculo.inc"
+			],
+			[
+				"consultavei",
+				"DetranNet\\arearestrita\\Extrato\\Extrato\\ConsultaVeiculo.asp"
+			],
+			[
+				"debitosveiculoou",
+				"Rotinas\\Veiculo\\DebitosVeiculoOutraUF.inc"
+			],
+			[
+				"dadosvei",
+				"DetranNet\\Internet\\Rotinas\\DadosVeiculo.inc"
+			],
+			[
+				"debitosautosoutraufrenainf",
+				"DetranNet\\Internet\\Rotinas\\DebitosAutosOutraUfRENAINF.inc"
+			],
+			[
+				"renainf",
+				"Rotinas\\Veiculo\\DebitosAutosOutraUfRENAINF.inc"
+			],
+			[
+				"outraufrena",
+				"DetranNet\\Internet\\Rotinas\\DebitosAutosOutraUfRENAINF.inc"
+			],
+			[
+				"outraufren",
+				"Rotinas\\Veiculo\\DebitosAutosOutraUfRENAINF.inc"
+			],
+			[
+				"debitospess",
+				"Rotinas\\Habilitacao\\DebitosPessoa.inc"
+			],
+			[
+				"extrato",
+				"DetranNet\\arearestrita\\Extrato\\Extrato\\ConsultaPessoa.asp"
+			],
+			[
+				"furto",
+				"DetranNet\\arearestrita\\renavam\\RouboFurto\\CorrecaoRouboFurto.asp"
+			],
+			[
+				"intervalo",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Notificacao\\IntervaloAR.asp"
+			],
+			[
+				"operador",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Operador.asp"
+			],
+			[
+				"recupera",
+				"DetranNet\\arearestrita\\Habilitacao\\Coordenadoria\\RecuperaRegistro.asp"
+			],
+			[
+				"operador.as",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Operador.asp"
+			],
+			[
+				"funcoe",
+				"DetranNet\\arearestrita\\funcoes.inc"
+			],
+			[
+				"consultabincot59",
+				"DetranNet\\arearestrita\\Habilitacao\\Consulta\\ConsultaBincoT595.asp"
+			],
+			[
+				"codigo",
+				"DetranNet\\arearestrita\\CodigoBarra39.inc"
+			],
+			[
+				"formul",
+				"DetranNet\\arearestrita\\Habilitacao\\Processo\\FormularioRenach.asp"
+			],
+			[
+				"reimpressao",
+				"DetranNet\\arearestrita\\Habilitacao\\Processo\\ReimpressaoRenach.asp"
+			],
+			[
+				"lotegr",
+				"DetranNet\\arearestrita\\Habilitacao\\LoteCNH\\LoteGraficaRel.asp"
+			],
+			[
+				"lotegraf",
+				"DetranNet\\arearestrita\\Habilitacao\\LoteCNH\\LoteGrafica.asp"
+			],
+			[
+				"procadmcanc",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Administrativo\\ProcessoAdministrativoCancel.asp"
+			],
+			[
+				"servico",
+				"DetranNet\\arearestrita\\Financas\\Tabelas\\Servicos.asp"
+			],
+			[
+				"renatabservi",
+				"DetranNet\\arearestrita\\renavam\\tabela\\CadastroServico.asp"
+			],
+			[
+				"processoad",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Administrativo\\ProcessoAdministrativoCancel.asp"
+			],
+			[
+				"infracao",
+				"DetranNet\\arearestrita\\Fiscalizacao\\Tabela\\TipoInfracao.asp"
+			],
+			[
+				"ope",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Operador.asp"
+			],
+			[
+				"opera",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Operador.asp"
+			],
+			[
+				"rot",
+				"Rotinas\\rotinas.inc"
+			],
+			[
+				"bloquei",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\BloqueiaOperador.asp"
+			],
+			[
+				"operado",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Operador.asp"
+			],
+			[
+				"prefixo",
+				"DetranNet\\arearestrita\\DetranNet\\Tabela\\PrefixoSistema.asp"
+			],
+			[
+				"autorizacao",
+				"DetranNet\\arearestrita\\DetranNet\\Seguranca\\Autorizacao.asp"
+			],
+			[
+				"internet/habi/consul",
+				"DetranNet\\Internet\\Habilitacao\\ConsultaProcesso.asp"
+			],
+			[
+				"internet/pesso",
+				"DetranNet\\Internet\\Habilitacao\\Servicos\\ConsultaPessoa.asp"
+			],
+			[
+				"internet/pess",
+				"DetranNet\\Internet\\Habilitacao\\ConsultaProcessoSeguranca.asp"
+			],
+			[
+				"pontuacao",
+				"Rotinas\\Habilitacao\\Pontuacao.inc"
+			],
+			[
+				"consultaprocessose",
+				"DetranNet\\Internet\\Habilitacao\\ConsultaProcessoSeguranca.asp"
+			],
+			[
+				"extratoconsultavei",
+				"DetranNet\\arearestrita\\Extrato\\Extrato\\ConsultaVeiculo.asp"
+			],
+			[
+				"pontuacaoin",
+				"Rotinas\\Habilitacao\\PontuacaoInternet.inc"
+			],
+			[
+				"pontuacao.inc",
+				"Rotinas\\Habilitacao\\Pontuacao.inc"
+			],
+			[
+				"extrato/consultavei",
+				"DetranNet\\arearestrita\\Extrato\\Extrato\\ConsultaVeiculo.asp"
+			],
+			[
+				"global",
+				"DetranNet\\Internet\\global.asa"
+			],
+			[
+				"extrato/",
+				"DetranNet\\arearestrita\\Extrato\\Extrato\\ConsultaPessoa.asp"
+			],
+			[
+				"pontua",
+				"Rotinas\\Habilitacao\\Pontuacao.inc"
+			],
+			[
+				"consultaprosegu",
+				"DetranNet\\Internet\\Habilitacao\\ConsultaProcessoSeguranca.asp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\32920425854\\DetranNET\\SUBLIME\\OLD.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

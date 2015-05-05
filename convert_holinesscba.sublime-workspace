@@ -16,18 +16,10 @@
 	"buffers":
 	[
 		{
-			"file": "convert_holiness.sublime-project",
+			"file": "convert_holinesscba.sublime-project",
 			"settings":
 			{
-				"buffer_size": 759,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 328,
+				"buffer_size": 678,
 				"line_ending": "Unix"
 			}
 		}
@@ -118,10 +110,12 @@
 	},
 	"expanded_folders":
 	[
-		"/D/vagrant/projects/convert_holinesscba"
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba"
 	],
 	"file_history":
 	[
+		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/sublime-projects/convert_holiness.sublime-project",
 		"/D/vagrant/convert_holiness.sublime-project",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
@@ -158,7 +152,6 @@
 		"/D/vagrant/projects/e4r2015_holinesscba/config/initializers/simple_form.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/helpers/application_helper.rb",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150211164448_create_subscribers.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150211161016_create_payment_plans.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150210163357_create_churches.rb",
@@ -192,7 +185,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -230,19 +223,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "convert_holiness.sublime-project",
+					"file": "convert_holinesscba.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 759,
+						"buffer_size": 678,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								84,
-								84
+								35,
+								35
 							]
 						],
 						"settings":
@@ -250,31 +243,36 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -285,28 +283,27 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -314,100 +311,13 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								288,
-								288
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content"
-							],
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 24.0
 	},
 	"input":
 	{
@@ -444,11 +354,15 @@
 	{
 		"height": 100.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
 	"pinned_build_system": "",
 	"project": "convert_holinesscba.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
