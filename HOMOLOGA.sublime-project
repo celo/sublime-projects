@@ -3,7 +3,7 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "..\\..\\..\\DetranNET\\APL\\DetranNET_APL",
+			"path": "..\\..\\..\\DetranNET\\WORK\\DetranNET_APL",
 			"folder_exclude_patterns": ["Webservices"]
 		}
 	],
