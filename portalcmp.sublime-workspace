@@ -23,14 +23,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "packa",
+		"height": 104.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"packa",
-				"Package Control: Upgrade/Overwrite All Packages"
-			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -102,34 +98,32 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/upper"
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/portalcmp"
 	],
 	"file_history":
 	[
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/sublime-projects/convert_holinesscba.sublime-project",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/assets/javascripts/application.js",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/assets/stylesheets/application.scss",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/assets/stylesheets/static_pages.scss",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/views/layouts/_footer.html.erb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/views/layouts/_shim.html.erb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/views/layouts/application.html.erb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/app/views/layouts/_header.html.erb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/config/routes.rb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/config/environments/development.rb",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/Gemfile",
-		"/C/Users/32920425854.HOMOLOGA/.bashrc",
-		"/C/Users/32920425854.HOMOLOGA/.gitconfig",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/Gemfile",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/assets/stylesheets/application.css",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/assets/stylesheets/custom.css.scss",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/layouts/application.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/layouts/_shim.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/subscribers/new.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/layouts/_header.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/layouts/_footer.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/controllers/subscribers_controller.rb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/list.html.erb",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/config/routes.rb",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/sublime-projects/e4r2015_holinesscba.sublime-project",
 		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/e4r2015_holinesscba/.git/config",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/README.md",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/convert_holinesscba/.git/config",
-		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/32920425854.HOMOLOGA/vagrant/projects/sublime-projects/convert_holiness.sublime-project",
-		"/D/vagrant/convert_holiness.sublime-project",
-		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/32920425854.HOMOLOGA/vagrant/Vagrantfile",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/list.html.erb",
-		"/D/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/index.html.erb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/controllers/admin/subscribers_controller.rb",
+		"/D/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/index.html.erb",
+		"/D/vagrant/projects/sublime-projects/e4r2015_holinesscba.sublime-project",
+		"/D/vagrant/projects/e4r2015_holinesscba/app/controllers/subscribers_controller.rb",
+		"/D/vagrant/e4r2015holinesscba.sublime-project",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/static_pages/home.html.erb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/subscribers/success.html.erb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/models/subscriber.rb",
@@ -149,7 +143,6 @@
 		"/D/vagrant/projects/e4r2015_holinesscba/test/mailers/previews/subscriber_mailer_preview.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/config/environments/development.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/mailers/application_mailer.rb",
-		"/D/vagrant/projects/e4r2015_holinesscba/app/controllers/subscribers_controller.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/layouts/application.html.erb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/list.xls.erb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/views/admin/subscribers/new.html.erb",
@@ -160,6 +153,7 @@
 		"/D/vagrant/projects/e4r2015_holinesscba/config/initializers/simple_form.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/helpers/application_helper.rb",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150211164448_create_subscribers.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150211161016_create_payment_plans.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150210163357_create_churches.rb",
@@ -171,7 +165,6 @@
 		"/D/vagrant/projects/e4r2015_holinesscba/db/migrate/20150324172657_improve_subscription_form.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/config/routes.rb",
 		"/D/vagrant/projects/e4r2015_holinesscba/.git/config",
-		"/D/vagrant/e4r2015holinesscba.sublime-project",
 		"/D/vagrant/projects/e4r2015_holinesscba/config/locales/devise.views.pt-BR.yml",
 		"/D/vagrant/projects/e4r2015_holinesscba/app/assets/stylesheets/application.css",
 		"/D/vagrant/projects/e4r2015_holinesscba/config.ru",
@@ -185,6 +178,8 @@
 		"/D/vagrant/projects/e4r2015_holinesscba/config/database.yml",
 		"/D/vagrant/Vagrantfile",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
 		"/C/Users/Marcelo/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/D/vagrant/.vagrant/machines/default/virtualbox/synced_folders",
 		"/D/vagrant/.vagrant/machines/default/virtualbox/action_provision",
@@ -272,10 +267,10 @@
 	},
 	"output.sftp":
 	{
-		"height": 0.0
+		"height": 100.0
 	},
 	"pinned_build_system": "",
-	"project": "convert_holinesscba.sublime-project",
+	"project": "portalcmp.sublime-project",
 	"replace":
 	{
 		"height": 44.0
@@ -288,28 +283,44 @@
 		"selected_items":
 		[
 			[
-				"appli.js",
-				"app\\assets\\javascripts\\application.js"
+				"subsnew",
+				"app\\views\\subscribers\\new.html.erb"
 			],
 			[
-				"appliscss",
-				"app\\assets\\stylesheets\\application.scss"
+				"shim",
+				"app\\views\\layouts\\_shim.html.erb"
 			],
 			[
-				"applicascss",
-				"app\\assets\\stylesheets\\static_pages.scss"
+				"applihtml",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"applics",
+				"app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"gemfil",
+				"Gemfile"
 			],
 			[
 				"routes",
 				"config\\routes.rb"
 			],
 			[
-				"envidev",
-				"config\\environments\\development.rb"
+				"list",
+				"app\\views\\admin\\subscribers\\list.html.erb"
 			],
 			[
-				"gemfi",
+				"subcon",
+				"app\\controllers\\subscribers_controller.rb"
+			],
+			[
+				"gemf",
 				"Gemfile"
+			],
+			[
+				"subscon",
+				"app\\controllers\\subscribers_controller.rb"
 			],
 			[
 				"admsubsli",
@@ -332,16 +343,16 @@
 				"app\\models\\subscriber.rb"
 			],
 			[
-				"subsnew",
-				"app\\views\\subscribers\\new.html.erb"
-			],
-			[
 				"succe",
 				"app\\views\\subscribers\\success.html.erb"
 			],
 			[
 				"hom",
 				"app\\views\\static_pages\\home.html.erb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
 			],
 			[
 				"subsrb",
@@ -382,10 +393,6 @@
 			[
 				"subsc.rb",
 				"app\\models\\subscriber.rb"
-			],
-			[
-				"subscon",
-				"app\\controllers\\subscribers_controller.rb"
 			],
 			[
 				"previ",
@@ -434,10 +441,6 @@
 			[
 				"custom",
 				"app\\assets\\stylesheets\\custom.css.scss"
-			],
-			[
-				"list",
-				"app\\views\\admin\\subscribers\\list.html.erb"
 			],
 			[
 				"cus",

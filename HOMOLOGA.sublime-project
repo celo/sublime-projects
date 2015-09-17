@@ -4,7 +4,7 @@
 		{
 			"follow_symlinks": true,
 			"path": "..\\..\\..\\DetranNET\\WORK\\DetranNET_APL",
-			"folder_exclude_patterns": ["Webservices"]
+			"folder_exclude_patterns": ["Webservices","Termos"]
 		}
 	],
 	"settings":
